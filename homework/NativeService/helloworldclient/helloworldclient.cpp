@@ -31,7 +31,6 @@ int main(int argc, char *argv[])
 {
 	int cmd;
 	const char *err1;
-	const char *err2;
 
 	printf("HelloWorldclient is starting now!\n");
 	
