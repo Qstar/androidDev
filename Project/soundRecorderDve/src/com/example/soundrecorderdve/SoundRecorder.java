@@ -1245,7 +1245,6 @@ public class SoundRecorder extends Activity implements Button.OnClickListener,
 		}
 	}
 
-	@SuppressWarnings("null")
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
 		Intent intent = null;
