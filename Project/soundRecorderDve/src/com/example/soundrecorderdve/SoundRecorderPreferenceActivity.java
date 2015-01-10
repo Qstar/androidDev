@@ -1,7 +1,6 @@
 package com.example.soundrecorderdve;
 
 import com.example.soundrecorderdve.R;
-
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.os.Bundle;

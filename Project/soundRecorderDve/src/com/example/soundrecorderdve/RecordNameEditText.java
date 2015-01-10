@@ -1,5 +1,4 @@
 package com.example.soundrecorderdve;
-
 import android.content.Context;
 import android.graphics.Rect;
 import android.text.TextUtils;
